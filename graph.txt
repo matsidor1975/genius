@@ -80,3 +80,4 @@
 2025-01-10 add tests [1]
 2025-01-10 improve docs [2]
 2025-01-10 improve docs [3]
+2025-01-10 optimize function [4]
