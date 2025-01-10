@@ -78,3 +78,4 @@
 2025-01-09 minor changes [13]
 2025-01-09 optimize function [14]
 2025-01-10 add tests [1]
+2025-01-10 improve docs [2]
