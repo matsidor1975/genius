@@ -391,3 +391,4 @@
 2025-02-09 update feature [5]
 2025-02-09 add tests [6]
 2025-02-09 refactor code [7]
+2025-02-09 improve docs [8]
