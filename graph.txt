@@ -1625,3 +1625,4 @@
 2025-07-06 optimize function [4]
 2025-07-06 add tests [5]
 2025-07-06 fix bug [6]
+2025-07-06 improve docs [7]
