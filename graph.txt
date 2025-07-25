@@ -1824,3 +1824,4 @@
 2025-07-25 refactor code [5]
 2025-07-25 fix bug [6]
 2025-07-25 add tests [7]
+2025-07-25 improve docs [8]
