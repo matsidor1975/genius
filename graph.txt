@@ -1917,3 +1917,4 @@
 2025-08-07 update feature [4]
 2025-08-07 minor changes [5]
 2025-08-07 add tests [6]
+2025-08-07 improve docs [7]
