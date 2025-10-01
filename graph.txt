@@ -2365,3 +2365,4 @@
 2025-10-01 improve docs [4]
 2025-10-01 add tests [5]
 2025-10-01 minor changes [6]
+2025-10-01 optimize function [7]
