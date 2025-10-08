@@ -2442,3 +2442,4 @@
 2025-10-08 update feature [18]
 2025-10-08 add tests [19]
 2025-10-08 fix bug [20]
+2025-10-08 improve docs [21]
