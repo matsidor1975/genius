@@ -2643,3 +2643,4 @@
 2025-11-09 improve docs [9]
 2025-11-09 improve docs [10]
 2025-11-09 add tests [11]
+2025-11-09 optimize function [12]
