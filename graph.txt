@@ -2819,3 +2819,4 @@
 2025-11-27 optimize function [10]
 2025-11-27 add tests [11]
 2025-11-27 minor changes [12]
+2025-11-27 improve docs [13]
