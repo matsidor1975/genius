@@ -2867,3 +2867,4 @@
 2025-11-29 fix bug [24]
 2025-11-29 add tests [25]
 2025-11-29 improve docs [26]
+2025-11-29 update feature [27]
